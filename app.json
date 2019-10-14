@@ -25,6 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
-  }
+    },
+    "android": {
+      "package": "com.react.learn.app.flicker"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Flicker",
+  "name": "Flicker"
 }

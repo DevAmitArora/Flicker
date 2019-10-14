@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/09f8f250bbd8d75c8e2702d09baf1568/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f890ca8d1a6c9ac7bcde2b1925ef1356/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/amiarora/Documents/App/Flicker/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/amiarora/Documents/App/Flicker/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/amiarora/Documents/App/Flicker/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/amiarora/Documents/App/Flicker/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/amiarora/Documents/App/Flicker/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/536a52794e3cc31cc219a6f9401ec160/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/97fa12b68711c470da40e1eb7fe38b02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/447918fb0c0fdfe24ac758b69a3d173f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a8972a04805f72ff4bf76776cc98e552/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b04f4a803fe718a930baed09359ee6f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/c0e883ec7b784cff690159470209a6d4/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3a84d54bf85e86f6c6a66b9da8666a9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d6f7d67f4c97b8a56ccd038474d26404/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/08ebe125b0ae3f547a6f0b0b837c7afc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0a276d3b4ff95c6cf5a17c9f3645590a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4a8fb284cd87f2a7dbab4fd0367c371a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/43d8894f4e4fc2c1f826b1a57c541915/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4d1846cf74c86412ce399478a5779a87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/fc1c9f38a46d76c7db7d47fd317ab581/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/85d564e33bb82f493c7648306677887f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e757dc86b281071e2ff0ac016bcd3a73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8aa60ef62db87baab9bddd2c58b54a5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e9bbe4b925758b1c2e2f9f9bb0608f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/115ea9a588d194f4c4162e72cd08dc99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c20e7073c80b7cd0d48475c61e61b1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/431bc9696fc291c6a4dfe2ef1fe0edfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8540d1c5b5298242e713eff0ef91b100/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/fbc65a567a3ef96c47d707056c348ea6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c6cf4ab595c7a24ea8f17df71a289e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/996a7c48801f080ce33b3cf6cbf218cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c8383ad54b62587505e43a0b602dec20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/950bcbc660bcc73b36ecaf234ffb3057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0094adb79c1e759ad4248918b20bd8ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/48fd375af2b03f8ac8e69509072bc68e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3268069f3845de4d73e7179ee656491/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a4a34fa9f3cd8289b17f0970c928bfff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/49602fedcdd6c9916b0c48ce10b34740/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/c358ff9a20bab0e8dbf2a5aefe26c962/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/46371f9d413d0e8fd49f1ba7bc452ab1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/729247dedfa6136aba7bd39a680b46d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/fd14dcb15e23e90c29ec6193d866e14b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/da8a4f687cb3ce6c4f743a09017230c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/e7b91d256ff390712156267ba4f406a7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/23536d983e5fe2a0acbbb49f8dfacbd9/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/2ba18c778ee9dd4a6c6ff1a2851cc4be/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/09f8f250bbd8d75c8e2702d09baf1568/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/09f8f250bbd8d75c8e2702d09baf1568/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/97fa12b68711c470da40e1eb7fe38b02/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/97fa12b68711c470da40e1eb7fe38b02/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/447918fb0c0fdfe24ac758b69a3d173f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/447918fb0c0fdfe24ac758b69a3d173f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a8972a04805f72ff4bf76776cc98e552/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a8972a04805f72ff4bf76776cc98e552/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/c0e883ec7b784cff690159470209a6d4/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/c0e883ec7b784cff690159470209a6d4/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8540d1c5b5298242e713eff0ef91b100/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8540d1c5b5298242e713eff0ef91b100/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/c358ff9a20bab0e8dbf2a5aefe26c962/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/c358ff9a20bab0e8dbf2a5aefe26c962/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/23536d983e5fe2a0acbbb49f8dfacbd9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/23536d983e5fe2a0acbbb49f8dfacbd9/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.flicker.MainActivity
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/amiarora/Documents/App/Flicker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/09f8f250bbd8d75c8e2702d09baf1568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/09f8f250bbd8d75c8e2702d09baf1568/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f890ca8d1a6c9ac7bcde2b1925ef1356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/f890ca8d1a6c9ac7bcde2b1925ef1356/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/amiarora/Documents/App/Flicker/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/amiarora/Documents/App/Flicker/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/amiarora/Documents/App/Flicker/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/amiarora/Documents/App/Flicker/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/amiarora/Documents/App/Flicker/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/amiarora/Documents/App/Flicker/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/amiarora/Documents/App/Flicker/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/amiarora/Documents/App/Flicker/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/amiarora/Documents/App/Flicker/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/amiarora/Documents/App/Flicker/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/536a52794e3cc31cc219a6f9401ec160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/536a52794e3cc31cc219a6f9401ec160/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/97fa12b68711c470da40e1eb7fe38b02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/97fa12b68711c470da40e1eb7fe38b02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/447918fb0c0fdfe24ac758b69a3d173f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/447918fb0c0fdfe24ac758b69a3d173f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a8972a04805f72ff4bf76776cc98e552/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a8972a04805f72ff4bf76776cc98e552/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b04f4a803fe718a930baed09359ee6f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b04f4a803fe718a930baed09359ee6f9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/c0e883ec7b784cff690159470209a6d4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/c0e883ec7b784cff690159470209a6d4/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3a84d54bf85e86f6c6a66b9da8666a9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3a84d54bf85e86f6c6a66b9da8666a9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d6f7d67f4c97b8a56ccd038474d26404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d6f7d67f4c97b8a56ccd038474d26404/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/08ebe125b0ae3f547a6f0b0b837c7afc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/08ebe125b0ae3f547a6f0b0b837c7afc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0a276d3b4ff95c6cf5a17c9f3645590a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0a276d3b4ff95c6cf5a17c9f3645590a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4a8fb284cd87f2a7dbab4fd0367c371a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4a8fb284cd87f2a7dbab4fd0367c371a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/43d8894f4e4fc2c1f826b1a57c541915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/43d8894f4e4fc2c1f826b1a57c541915/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4d1846cf74c86412ce399478a5779a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4d1846cf74c86412ce399478a5779a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/fc1c9f38a46d76c7db7d47fd317ab581/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/fc1c9f38a46d76c7db7d47fd317ab581/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/85d564e33bb82f493c7648306677887f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/85d564e33bb82f493c7648306677887f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e757dc86b281071e2ff0ac016bcd3a73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e757dc86b281071e2ff0ac016bcd3a73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8aa60ef62db87baab9bddd2c58b54a5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/8aa60ef62db87baab9bddd2c58b54a5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e9bbe4b925758b1c2e2f9f9bb0608f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e9bbe4b925758b1c2e2f9f9bb0608f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/115ea9a588d194f4c4162e72cd08dc99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/115ea9a588d194f4c4162e72cd08dc99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c20e7073c80b7cd0d48475c61e61b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/c20e7073c80b7cd0d48475c61e61b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/431bc9696fc291c6a4dfe2ef1fe0edfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/431bc9696fc291c6a4dfe2ef1fe0edfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/b87d03a578009a83c2c876366fe26729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8540d1c5b5298242e713eff0ef91b100/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8540d1c5b5298242e713eff0ef91b100/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/fbc65a567a3ef96c47d707056c348ea6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/fbc65a567a3ef96c47d707056c348ea6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c6cf4ab595c7a24ea8f17df71a289e1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c6cf4ab595c7a24ea8f17df71a289e1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/996a7c48801f080ce33b3cf6cbf218cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/996a7c48801f080ce33b3cf6cbf218cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c8383ad54b62587505e43a0b602dec20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c8383ad54b62587505e43a0b602dec20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/950bcbc660bcc73b36ecaf234ffb3057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/950bcbc660bcc73b36ecaf234ffb3057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0094adb79c1e759ad4248918b20bd8ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/0094adb79c1e759ad4248918b20bd8ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/48fd375af2b03f8ac8e69509072bc68e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/48fd375af2b03f8ac8e69509072bc68e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3268069f3845de4d73e7179ee656491/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d3268069f3845de4d73e7179ee656491/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a4a34fa9f3cd8289b17f0970c928bfff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a4a34fa9f3cd8289b17f0970c928bfff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/49602fedcdd6c9916b0c48ce10b34740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/49602fedcdd6c9916b0c48ce10b34740/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/c358ff9a20bab0e8dbf2a5aefe26c962/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/c358ff9a20bab0e8dbf2a5aefe26c962/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/46371f9d413d0e8fd49f1ba7bc452ab1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/46371f9d413d0e8fd49f1ba7bc452ab1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/729247dedfa6136aba7bd39a680b46d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/729247dedfa6136aba7bd39a680b46d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/fd14dcb15e23e90c29ec6193d866e14b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/fd14dcb15e23e90c29ec6193d866e14b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/da8a4f687cb3ce6c4f743a09017230c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/da8a4f687cb3ce6c4f743a09017230c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/e7b91d256ff390712156267ba4f406a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/e7b91d256ff390712156267ba4f406a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/23536d983e5fe2a0acbbb49f8dfacbd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/23536d983e5fe2a0acbbb49f8dfacbd9/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/2ba18c778ee9dd4a6c6ff1a2851cc4be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/2ba18c778ee9dd4a6c6ff1a2851cc4be/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amiarora/Documents/App/Flicker/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/amiarora/Documents/App/Flicker/node_modules/expo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/amiarora/Documents/App/Flicker/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/9680067ac94d811a5f1a2c479d3d3eed/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/567dadcfd70e3d4151845065e39ba276/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/amiarora/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/e203f6da4480f884bb3a8430630f8770/AndroidManifest.xml:26:13-120
